@@ -6,6 +6,5 @@ public without sharing class AccountController {
     {
             return [SELECT Id, Name, Industry, Rating, Website, AnnualRevenue FROM Account LIMIT 25];
     }
-    clkgdgno\
-    nvbxdifb
+
 }
